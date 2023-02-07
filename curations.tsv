@@ -1,0 +1,12 @@
+doi	hit	notes
+10.1093/nar/gkt1026	false	HPO 2013 paper
+10.1186/2041-1480-2-s2-s1	false
+10.1186/s13326-016-0080-2	true	Olaf Wolkenhauer had south africa affiliaton
+10.1111/nph.13557	true	Yves Van de Peer has south africa affiliation
+10.1093/database/bau061	true	Authors from many countries, but no disambiguation nor contact information available
+10.1073/pnas.0506580102 false	authors are all american, incorrect extraction from openalex
+10.1001/jama.2019.0554	false	irrelevant
+10.1186/s13326-018-0176-y	true	egypt + south korea
+10.1093/nar/gkv350	true	authors from lots of places
+10.1093/nar/gkr1099	true	authors from lots of places, however not possible to figure out which is from where
+10.1186/2041-1480-2-s2-s1	false	incorrect extraction, all authors are american
